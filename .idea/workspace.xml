@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3020c92-10e7-40d8-972e-05e7c2b701f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/pages/singup_sceen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/singup_sceen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/varification_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/varification_page.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kKnuUDVnAWEyQ5hFiUaAFEK4GM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../class 20" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Downloads\flutter file\codecanyon-t9f1GyOv-fluxstore-multi-vendor-flutter-ecommerce-full-app\__MACOSX\task_app\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Downloads\flutter file\codecanyon-t9f1GyOv-fluxstore-multi-vendor-flutter-ecommerce-full-app\__MACOSX\task_app\assets" />
+      <recent name="C:\Users\USER\Downloads\flutter file\codecanyon-t9f1GyOv-fluxstore-multi-vendor-flutter-ecommerce-full-app\__MACOSX\task_app" />
+      <recent name="C:\Users\USER\Downloads\flutter file\codecanyon-t9f1GyOv-fluxstore-multi-vendor-flutter-ecommerce-full-app\__MACOSX\task_app\lib\pages" />
+      <recent name="C:\Users\USER\Downloads\flutter file\codecanyon-t9f1GyOv-fluxstore-multi-vendor-flutter-ecommerce-full-app\__MACOSX\task_app\assets\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3020c92-10e7-40d8-972e-05e7c2b701f5" name="Default Changelist" comment="" />
+      <created>1605458373018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605458373018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="242" y="125" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605641686825">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="242" y="125" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.738@0.0.1024.738" timestamp="1605641686825" />
+    <state x="292" y="133" key="FileChooserDialogImpl" timestamp="1605799482732">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="292" y="133" key="FileChooserDialogImpl/0.0.1024.738@0.0.1024.738" timestamp="1605799482732" />
+    <state width="944" height="99" key="GridCell.Tab.0.bottom" timestamp="1605805387798">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="944" height="99" key="GridCell.Tab.0.bottom/0.0.1024.738@0.0.1024.738" timestamp="1605805387798" />
+    <state width="944" height="99" key="GridCell.Tab.0.center" timestamp="1605805387798">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="944" height="99" key="GridCell.Tab.0.center/0.0.1024.738@0.0.1024.738" timestamp="1605805387798" />
+    <state width="944" height="99" key="GridCell.Tab.0.left" timestamp="1605805387797">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="944" height="99" key="GridCell.Tab.0.left/0.0.1024.738@0.0.1024.738" timestamp="1605805387797" />
+    <state width="944" height="99" key="GridCell.Tab.0.right" timestamp="1605805387798">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state width="944" height="99" key="GridCell.Tab.0.right/0.0.1024.738@0.0.1024.738" timestamp="1605805387798" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1605458600325">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1024.738@0.0.1024.738" timestamp="1605458600325" />
+    <state x="168" y="172" key="run.anything.popup" timestamp="1605634027830">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="168" y="172" key="run.anything.popup/0.0.1024.738@0.0.1024.738" timestamp="1605634027830" />
+  </component>
+</project>

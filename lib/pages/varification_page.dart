@@ -126,7 +126,9 @@ class _VarificationPageState extends State<VarificationPage> {
                     child: Container(
                       child: Row(
                         children: [
-                          Container(),
+                          Container(
+
+                          ),
                         ],
                       ),
                     ),

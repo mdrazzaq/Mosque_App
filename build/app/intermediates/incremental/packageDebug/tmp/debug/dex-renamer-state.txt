@@ -1,0 +1,4 @@
+#Thu Nov 19 21:31:04 BDT 2020
+base.0=C\:\\Users\\USER\\Downloads\\flutter file\\codecanyon-t9f1GyOv-fluxstore-multi-vendor-flutter-ecommerce-full-app\\__MACOSX\\task_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

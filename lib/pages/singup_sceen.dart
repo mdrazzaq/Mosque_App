@@ -199,7 +199,9 @@ class _SingupSceenState extends State<SingupSceen> {
                          children: [
                            IconButton(
                                icon: Icon(FontAwesomeIcons.google,color: Colors.white,),
-                           onPressed: (){},
+                           onPressed: (){
+                                 //Google login function
+                           },
                            ),
                            Text('Google',style: TextStyle(
                              fontSize: 15,fontFamily: 'Regular-Bold',color: Colors.white,
@@ -212,7 +214,9 @@ class _SingupSceenState extends State<SingupSceen> {
                           children: [
                             IconButton(
                               icon: Icon(FontAwesomeIcons.facebook,color: Colors.white,),
-                              onPressed: (){},
+                              onPressed: (){
+                                //Facebook Login function
+                              },
                             ),
                             Text('Facebook',style: TextStyle(
                               fontSize: 15,fontFamily: 'Regular-Bold',color: Colors.white,
